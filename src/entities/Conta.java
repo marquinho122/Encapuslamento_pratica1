@@ -2,9 +2,9 @@ package entities;
 
 public class Conta {
 	
-	private int numero;
+	private Integer numero;
 	private String nome;
-	private double montante;
+	private Double montante;
 	
 	public Conta() {
 	}
